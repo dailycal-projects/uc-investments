@@ -1,1 +1,1 @@
-# uc-investments
+# UC Investments
